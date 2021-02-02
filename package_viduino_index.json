@@ -14,7 +14,7 @@
                     "category":"Viduino",
                     "url":"https://github.com/thinpv/viduino/raw/master/viduino-0.0.6.tar",
                     "archiveFileName":"viduino-0.0.6.tar",
-                    "checksum":"SHA-256:7EAA376C1BF61EFC79A41D9AF98A75CCD4F435BCFBC025A875F6D90ADF95DE25",
+                    "checksum":"SHA-256:270A1C7C68AAE680B50B0F31D48CFB012B432115FC0E8698CC9502A5D208E53C",
                     "size":"27719680",
                     "boards":[
                         {
