@@ -33,6 +33,33 @@
                             "name":"python3"
                         }
                     ]
+                },
+		{
+                    "name":"Viduino ARM9",
+                    "architecture":"ARM926",
+                    "version":"0.0.7",
+                    "category":"Viduino",
+                    "url":"https://github.com/thinpv/viduino/raw/master/viduino-0.0.7.tar",
+                    "archiveFileName":"viduino-0.0.7.tar",
+                    "checksum":"SHA-256:6CF400A24D9FA1476C50C89A17F1C4391A521D247FCE27FABF9EB4F5B5E23876",
+                    "size":"31354880",
+                    "boards":[
+                        {
+                            "name":"Viduino Uno"
+                        }
+                    ],
+                    "toolsDependencies":[
+                        {
+                            "packager": "arduino",
+                            "name": "arm-none-eabi-gcc",
+                            "version": "7-2017q4"
+                        },
+                        {
+                            "packager":"Viduino",
+                            "version":"3.7.2-post1",
+                            "name":"python3"
+                        }
+                    ]
                 }
             ],
             "tools":[
