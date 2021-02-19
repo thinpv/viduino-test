@@ -10,12 +10,12 @@
 		{
                     "name":"Viduino ARM9",
                     "architecture":"ARM926",
-                    "version":"0.0.6",
+                    "version":"0.0.7",
                     "category":"Viduino",
-                    "url":"https://github.com/thinpv/viduino/raw/master/viduino-0.0.6.tar",
-                    "archiveFileName":"viduino-0.0.6.tar",
-                    "checksum":"SHA-256:270A1C7C68AAE680B50B0F31D48CFB012B432115FC0E8698CC9502A5D208E53C",
-                    "size":"27719680",
+                    "url":"https://github.com/thinpv/viduino/raw/master/viduino-0.0.7.tar",
+                    "archiveFileName":"viduino-0.0.7.tar",
+                    "checksum":"SHA-256:911C563600B8BECB28F90612A4E9860DD88F7E15E88EE3740F63D10D5B601E15",
+                    "size":"31088640",
                     "boards":[
                         {
                             "name":"Viduino Uno"
@@ -37,12 +37,12 @@
 		{
                     "name":"Viduino ARM9",
                     "architecture":"ARM926",
-                    "version":"0.0.7",
+                    "version":"0.0.6",
                     "category":"Viduino",
-                    "url":"https://github.com/thinpv/viduino/raw/master/viduino-0.0.7.tar",
-                    "archiveFileName":"viduino-0.0.7.tar",
-                    "checksum":"SHA-256:6CF400A24D9FA1476C50C89A17F1C4391A521D247FCE27FABF9EB4F5B5E23876",
-                    "size":"31354880",
+                    "url":"https://github.com/thinpv/viduino/raw/master/viduino-0.0.6.tar",
+                    "archiveFileName":"viduino-0.0.6.tar",
+                    "checksum":"SHA-256:270A1C7C68AAE680B50B0F31D48CFB012B432115FC0E8698CC9502A5D208E53C",
+                    "size":"27719680",
                     "boards":[
                         {
                             "name":"Viduino Uno"
