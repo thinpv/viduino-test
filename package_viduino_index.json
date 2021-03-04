@@ -14,8 +14,8 @@
                     "category":"Viduino",
                     "url":"https://github.com/thinpv/viduino/raw/master/viduino-0.0.8.tar",
                     "archiveFileName":"viduino-0.0.8.tar",
-                    "checksum":"SHA-256:A9313CA1EDEC3A7F42FB1BC9E06B527EA84C5C4BF7A694A5EAE45B25E53F7E6F",
-                    "size":"46950400",
+                    "checksum":"SHA-256:897B04F7A08B15CA6B70725BFD4C7042AB563A9A7D15683FD2AF241E6B63DF27",
+                    "size":"46837760",
                     "boards":[
                         {
                             "name":"Viduino Uno"
